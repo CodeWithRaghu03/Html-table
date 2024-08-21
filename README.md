@@ -1,9 +1,8 @@
 
-<!--HTML TABLE-->
+<!--HTML TABLE--This is the source code of basic tablular structure of a college routine using HTML-->
 <html> 
  <head> 
-  <title>HTML table</title> 
- </head> 
+   </head> 
  <body> 
   <h1 align="center">IT DEPARTMENT ISM PATNA </h1> 
   <table border="2px" width="100%" height="50%"> 
@@ -80,4 +79,4 @@
    </tbody> 
   </table> 
  </body>
-</html>This is the source code of basic tablular structure of a college routine using HTML.
+</html>
